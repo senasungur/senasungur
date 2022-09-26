@@ -1,0 +1,32 @@
+GitHub Nedir?
+	Git bir sürüm kontrol sistemini barındıran bulut tabanlı bir hizmettir.
+	Geliştiricilerin, ilerlemelerini ayrıntılı olarak takip ederken ortak projelerde işbirliği yapmasına ve değişiklikler yapmasına yardımcı olur.
+	GitHub bir geliştirme merkezidir. Bu merkezde geliştiriciler sosyal etkileşim halindedir.
+	Ekip çalışması etkileşim gerektirir ve Hub kısmı bu işlevi yerine getirir. GitHub’ı “geliştirme” ve “sosyalleşme” olarak ikiye ayırırsak Git geliştirme, 
+	Hub sosyalleşme olarak tanımlanır.
+
+GitHub Ne İçin Kullanlır?
+	Projeleri depolamak
+	Dünyanın her yerinden geliştiricileri takip etmek, bağlantı kurmak
+	Yeni fikirler edinmek
+	Ürünlerinin tanıtımını yapmak
+	İş başvuruları için portfolyo oluşturmak
+	Prototip geliştirmek  
+
+GitHub Ne İşe Yarar?
+	Ortak projeler geliştirmek
+	Paralel ve eş zamanlı çalışma ortamı oluşturmak
+	Daha hızlı proje geliştirmek
+	Daha kolay sürüm güncellemesi yapmak
+	Ekip üyelerinin çalışmalarının çakışmasını ve karışmasını önlemek
+	Yatırım almak için şirketlerin dikkatini çekmek
+	
+Github ile ortak proje nasıl yazılır?
+	Öncelikle bir ekib olarak Github.com sitesinden bireysel hesap kuruyoruz.
+	Hesap kurduktan sonra proje yetkilisi githup ana menüsünden sağ yukarda + işeretine basıyoruz.
+	New Proje kısmına basıyoruz ve bir proje başlatıyoruz. Projeyi başlattıktan sonra,
+	Sol yukarıdan proje adını düzenleyebilirsiniz
+	Sağ yukarıda ise Anlayış, Proje detayla, Diğer seçenekler kısmında diğer seçekler kısmına giriyoruz.
+	Ayarlar kısmına bastıktan sonra erişim yönetme sistemine giriyoruz, daha sonrasında ekip arkadaşlarımıza Rol verip projeye davet
+	ediyoruz.
+
